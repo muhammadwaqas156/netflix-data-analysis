@@ -10,6 +10,6 @@ It includes Python code for loading the dataset, visualizing top genres, popular
 
 ## Files
 
-- `netflix_analysis_day1.ipynb` - Jupyter Notebook with EDA and plots
+- `netflix.ipynb` - Jupyter Notebook with EDA and plots
 - `netflix_movies_detailed_up_to_2025.csv` - Dataset (if allowed by license)
 
